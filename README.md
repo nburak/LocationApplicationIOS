@@ -8,7 +8,7 @@ A)DOWNLOAD
 
 B)SETTING UP
 
-  1)Unzip folder and copy project folder into where you want.
+  1)Unzip folder and copy project folder into where you want.<br>
   2)Make sure about cocoapods to be installed correctly!
   3)Open terminal and navigate it to project folder. Type "pod update" in terminal.
   4)Visit Google Developer Console, create an project which is for IOS in google developer console and get key.
